@@ -1,0 +1,45 @@
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe.config
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csprojAssemblyReference.cache
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame_HomeWork_.Properties.Resources.resources
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.GenerateResource.cache
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.CoreCompileInputs.cache
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Сониа\source\repos\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe.config
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csprojAssemblyReference.cache
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame_HomeWork_.Properties.Resources.resources
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.GenerateResource.cache
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.CoreCompileInputs.cache
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Сониа\source\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe.config
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame_HomeWork_.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Курсы прог\C# Уровень 2\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe.config
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame_HomeWork_.Properties.Resources.resources
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Андрей\Desktop\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe.config
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\bin\Debug\AsteroidsGame(HomeWork).pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame_HomeWork_.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).exe
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\AsteroidsGame(HomeWork)\AsteroidsGame(HomeWork)\obj\Debug\AsteroidsGame(HomeWork).pdb

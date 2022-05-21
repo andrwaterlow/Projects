@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C98C3706-5CF8-4A21-BB68-0C6E225CCA38}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AsteroidsGame_HomeWork_</RootNamespace>
+    <AssemblyName>AsteroidsGame%28HomeWork%29</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameObjects\Asteroid.cs" />
+    <Compile Include="ObjectsList\CometsList.cs" />
+    <Compile Include="Controllers\AsteroidsController.cs" />
+    <Compile Include="ObjectsList\AsteroidsList.cs" />
+    <Compile Include="GameObjects\BaseObject.cs" />
+    <Compile Include="GameObjects\Bullet.cs" />
+    <Compile Include="Controllers\BulletController.cs" />
+    <Compile Include="Controllers\AsteroidsControllerColision.cs" />
+    <Compile Include="Controllers\BulletsControllerColision.cs" />
+    <Compile Include="ObjectsList\BulletsList.cs" />
+    <Compile Include="GameObjects\Comet.cs" />
+    <Compile Include="Creater.cs" />
+    <Compile Include="Controllers\GameController.cs" />
+    <Compile Include="ObjectsList\HealthList.cs" />
+    <Compile Include="Controllers\HealthControllerCollision.cs" />
+    <Compile Include="Interfaces\IDamage.cs" />
+    <Compile Include="Interfaces\IHealth.cs" />
+    <Compile Include="Controllers\InputController.cs" />
+    <Compile Include="Interfaces\ISound.cs" />
+    <Compile Include="Interfaces\ITakeHP.cs" />
+    <Compile Include="Controllers\ShipDamageController.cs" />
+    <Compile Include="Factories\Factories.cs" />
+    <Compile Include="Factories\FactoryAsteroids.cs" />
+    <Compile Include="Factories\FactoryBullets.cs" />
+    <Compile Include="Factories\FactoryComet.cs" />
+    <Compile Include="Factories\FactoryHealth.cs" />
+    <Compile Include="Factories\FactoryShip.cs" />
+    <Compile Include="Factories\FactoryStars.cs" />
+    <Compile Include="Controllers\HealthController.cs" />
+    <Compile Include="Interfaces\IControlAction.cs" />
+    <Compile Include="Interfaces\IControlCollision.cs" />
+    <Compile Include="Interfaces\IFactories.cs" />
+    <Compile Include="Interfaces\IFactoryBullets.cs" />
+    <Compile Include="Interfaces\IFactoryComet.cs" />
+    <Compile Include="Interfaces\IFactoryHealth.cs" />
+    <Compile Include="Interfaces\IFactoryShip.cs" />
+    <Compile Include="Interfaces\IFactoryStars.cs" />
+    <Compile Include="Interfaces\IMovement.cs" />
+    <Compile Include="Interfaces\IFactoryAsteroids.cs" />
+    <Compile Include="Interfaces\ITakeDamage.cs" />
+    <Compile Include="Movements\MovementForAsteroids.cs" />
+    <Compile Include="Movements\MovementForBullet.cs" />
+    <Compile Include="Movements\MovementForComet.cs" />
+    <Compile Include="Movements\MovementForStars.cs" />
+    <Compile Include="Scenes\Game.cs" />
+    <Compile Include="GameObjectException.cs" />
+    <Compile Include="GameObjects\Health.cs" />
+    <Compile Include="Interfaces\ICollision.cs" />
+    <Compile Include="Controllers\PointsController.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scenes\BaseScene.cs" />
+    <Compile Include="Scenes\IScene.cs" />
+    <Compile Include="Scenes\MenuScene.cs" />
+    <Compile Include="Scenes\SceneManager.cs" />
+    <Compile Include="GameObjects\Ship.cs" />
+    <Compile Include="Controllers\ShipHealthController.cs" />
+    <Compile Include="Controllers\SoundController.cs" />
+    <Compile Include="GameObjects\Star.cs" />
+    <Compile Include="ObjectsList\StarsList.cs" />
+    <Compile Include="Starter.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorBrown_big1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorBrown_big2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorBrown_big3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorBrown_big4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comet3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing12.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explode.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceship_96202.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Health.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bomb.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zvuk-vyistrela-iz-lazera-23704.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medshot4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tommy Tallarico %28SEGA Earthworm Jim 2 OST%29 - Puppy Love_%28EEMUSIC.ru%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05-4.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
