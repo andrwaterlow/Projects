@@ -1,0 +1,28 @@
+C:\Users\Сониа\source\repos\MyApp\AppsControl\bin\Debug\AppsControl.dll
+C:\Users\Сониа\source\repos\MyApp\AppsControl\bin\Debug\AppsControl.pdb
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\MyApp.Controls.csprojAssemblyReference.cache
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\MyApp.Controls.csproj.CoreCompileInputs.cache
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\AppsControl.dll
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\AppsControl.pdb
+C:\Users\Сониа\source\repos\MyApp\AppsControl\bin\Debug\MyApp.Data0.dll
+C:\Users\Сониа\source\repos\MyApp\AppsControl\bin\Debug\MyApp.Data0.pdb
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\WorkerControls.g.cs
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\AppsControl_MarkupCompile.cache
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\AppsControl_MarkupCompile.lref
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\WorkerControls.baml
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\AppsControl.g.resources
+C:\Users\Сониа\source\repos\MyApp\AppsControl\obj\Debug\MyApp.Controls.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\bin\Debug\AppsControl.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\bin\Debug\AppsControl.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\bin\Debug\MyApp.Data0.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\bin\Debug\MyApp.Data0.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\MyApp.Controls.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\WorkerControls.g.cs
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\AppsControl_MarkupCompile.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\AppsControl_MarkupCompile.lref
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\WorkerControls.baml
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\AppsControl.g.resources
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\MyApp.Controls.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\MyApp.Controls.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\AppsControl.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\AppsControl\obj\Debug\AppsControl.pdb

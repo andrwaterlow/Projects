@@ -1,0 +1,12 @@
+C:\Users\Сониа\source\repos\MyApp\MyApp.Data0\bin\Debug\MyApp.Data0.dll
+C:\Users\Сониа\source\repos\MyApp\MyApp.Data0\bin\Debug\MyApp.Data0.pdb
+C:\Users\Сониа\source\repos\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.csproj.CoreCompileInputs.cache
+C:\Users\Сониа\source\repos\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.dll
+C:\Users\Сониа\source\repos\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.pdb
+C:\Users\Сониа\source\repos\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp.Data0\bin\Debug\MyApp.Data0.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp.Data0\bin\Debug\MyApp.Data0.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp.Data0\obj\Debug\MyApp.Data0.pdb

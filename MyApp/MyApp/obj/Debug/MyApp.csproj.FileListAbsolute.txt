@@ -1,0 +1,40 @@
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MainWindow.g.cs
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\App.g.cs
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp_MarkupCompile.cache
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp_MarkupCompile.lref
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MainWindow.baml
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.g.resources
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\MyApp.Data0.dll
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\MyApp.Data0.pdb
+C:\Users\Сониа\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\AppsControl.dll
+C:\Users\Сониа\source\repos\MyApp\MyApp\bin\Debug\AppsControl.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\AppsControl.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\MyApp.Data0.dll
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\AppsControl.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\bin\Debug\MyApp.Data0.pdb
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp_MarkupCompile.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp_MarkupCompile.lref
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.g.resources
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\Андрей\Desktop\Андрей\Курсы прог\C# Уровень 2\Новая папка\MyApp\MyApp\obj\Debug\MyApp.pdb
