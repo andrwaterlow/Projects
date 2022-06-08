@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 namespace Assets.Scripts
 {
@@ -6,28 +7,52 @@ namespace Assets.Scripts
     {
         public bool Exploded = false;
 
-        public void Explosion(Vector3 position, float distance, float powerOfExplotion, GameObject gameObject, float damage)
+        public void Explosion(Vector3 position, float distance, float powerOfExplotion, 
+            GameObject gameObject, float damage)
         {
             var collisions = Physics.OverlapSphere(position, distance);
+            float upWards = 1f;
 
             foreach (var collider in collisions)
             {
                 if (collider.TryGetComponent<Rigidbody>(out Rigidbody rigidbody))
                 {
-                    ApplyDamage(collider, damage);
+                    ApplyDamage(collider, position, rigidbody.position, damage, distance);
 
-                    rigidbody.AddForce(powerOfExplotion, powerOfExplotion / 2, powerOfExplotion, ForceMode.Impulse);
-                    rigidbody.AddTorque(Random.insideUnitSphere * powerOfExplotion * 4);
+                    rigidbody.AddExplosionForce(powerOfExplotion, position, distance, upWards, ForceMode.Impulse);
+                    rigidbody.AddTorque(UnityEngine.Random.insideUnitSphere * powerOfExplotion);
                 }
             }
             Exploded = true;
         }
 
-        private void ApplyDamage(Collider collider, float damage)
+        private void ApplyDamage(Collider collider, Vector3 centerOfExplosion, 
+            Vector3 positionOfObject, float damage, float radiusOfExplosion)
         {
             if (collider.TryGetComponent<IDamagable>(out IDamagable damagable))
             {
-                damagable.MakeDamage(damage);
+                damagable.MakeDamage(DistanceDamage(centerOfExplosion,
+                    positionOfObject, damage, radiusOfExplosion));
+            }
+        }
+
+        private float DistanceDamage(Vector3 centerOfExplosion, Vector3 positionOfObject,
+            float damage, float radiusOfExplosion ) 
+        {
+            var vector = centerOfExplosion - positionOfObject;
+            var distanceOfObject = vector.sqrMagnitude;
+
+            float countOfPart = 3;
+            var highDamageDistance = radiusOfExplosion / countOfPart;
+
+            if (distanceOfObject < highDamageDistance * highDamageDistance)
+            {
+                return damage;
+            }
+            else 
+            {
+                var ratio = 1f - (distanceOfObject / (radiusOfExplosion * radiusOfExplosion));
+                return damage * ratio;
             }
         }
     }

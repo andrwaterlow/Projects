@@ -4,9 +4,9 @@ public class END : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.TryGetComponent<IDamagable>(out var damagable))
         {
-            other.GetComponent<IDamagable>().MakeDamage(10000);
+            damagable.MakeDamage(10000);
         }
     }
 }

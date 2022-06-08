@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class Key : MonoBehaviour   
 {
-    [SerializeField] private GameObject _door;
-
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.TryGetComponent<Player>(out var player))
         {
-            other.GetComponent<Player>().KeyUp();
+            player.KeyUp();
             Destroy(gameObject);
         }
     }

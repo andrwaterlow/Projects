@@ -132,5 +132,30 @@ namespace Assets.Scripts
         {
             CurrentAmmo += PlusAmmo;
         }
-    }
+
+        public void RampageAmmo(int rampageCurrentAmmoInGun)
+        {
+            CurrentAmmoInGun = rampageCurrentAmmoInGun;
+        }
+
+        public void RampageDelay(float rampageDelay)
+        {
+            TimeDelay = rampageDelay;
+        }
+
+        public (int, float) StartStats()
+        {
+            var startCurrentAmmoInGun = CurrentAmmoInGun;
+            var startDelay = TimeDelay;
+            return (startCurrentAmmoInGun, startDelay);
+        }
+
+        public void ReturnStartStats(int StartCurrentAmmoInGun, float StartrampageDelay)
+        {
+            CurrentAmmoInGun = StartCurrentAmmoInGun;
+            TimeDelay = StartrampageDelay;
+
+        }
+    }   
+
 }

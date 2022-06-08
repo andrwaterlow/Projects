@@ -14,5 +14,6 @@ namespace Assets.Scripts
         public void AmmoForBazookaUp(int plusAmmo);
         public void AmmoForGrenadeUp(int plusAmmo);
         public void AmmoForMineUp(int plusAmmo);
+        public void UseRampage(int rampageCurrentAmmoInGun, float rampageDelay, float rampageSpeed);
     }
 }

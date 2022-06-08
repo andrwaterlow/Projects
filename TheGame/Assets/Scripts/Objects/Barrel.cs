@@ -5,8 +5,8 @@ using UnityEngine;
 public class Barrel : MortalObject, IDamagable
 {
     [SerializeField] private int _damageExplode = 100;
-    [SerializeField] private float _powerOfExplotion = 50f;
-    [SerializeField] private float _distance = 2;
+    [SerializeField] private float _powerOfExplotion = 500f;
+    [SerializeField] private float _distance = 15f;
 
     private Explodable _explodable;
 

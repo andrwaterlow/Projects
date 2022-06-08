@@ -5,12 +5,14 @@
         private Health _health;
         private Armour _armour;
         private GunsList _gunsList;
+        private PropertyOfRampage _propertyOfRampage;
 
-        public ItemManager(Health health, Armour armour, GunsList gunsList)
+        public ItemManager(Health health, Armour armour, GunsList gunsList, PropertyOfRampage propertyOfRampage)
         {
             _health = health;
             _armour = armour;
             _gunsList = gunsList;
+            _propertyOfRampage = propertyOfRampage;
         }
 
         public void HealthUp(float plusHP)
@@ -41,6 +43,11 @@
         public void AmmoForMineUp(int plusAmmo)
         {
             _gunsList.Mine.AmmoUp(plusAmmo);
+        }
+
+        public void UseRampage(int rampageCurrentAmmoInGun, float rampageDelay, float rampageSpeed)
+        {
+            _propertyOfRampage.ActiveOrDeactiveRampage(rampageCurrentAmmoInGun, rampageDelay, rampageSpeed);
         }
     }
 }

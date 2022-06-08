@@ -64,7 +64,6 @@
     <Compile Include="Assets\Scripts\Guns\Grenades.cs" />
     <Compile Include="Assets\Scripts\Player\InterfaceManager.cs" />
     <Compile Include="Assets\Scripts\Player\Movement.cs" />
-    <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\Guns\Riffle.cs" />
     <Compile Include="Assets\Scripts\IInterface\IManagerWindow.cs" />
     <Compile Include="Assets\Scripts\IInterface\IItemManager.cs" />
@@ -76,7 +75,7 @@
     <Compile Include="Assets\Scripts\Player\ManagerWindow.cs" />
     <Compile Include="Assets\Scripts\Guns\Mines.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Stone.cs" />
+    <Compile Include="Assets\Scripts\Stone.cs" />
     <Compile Include="Assets\Scripts\Attack.cs" />
     <Compile Include="Assets\Scripts\ButtonStone.cs" />
     <Compile Include="Assets\Scripts\IInterface\IGunsList.cs" />
@@ -110,7 +109,7 @@
     <Compile Include="Assets\Scripts\Respawn.cs" />
     <Compile Include="Assets\Scripts\Armour.cs" />
     <Compile Include="Assets\Scripts\Guns\Mine.cs" />
-    <Compile Include="Assets\DoorWithBoos.cs" />
+    <Compile Include="Assets\Scripts\PropertyOfRampage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

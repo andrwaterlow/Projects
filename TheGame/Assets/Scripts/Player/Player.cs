@@ -34,7 +34,7 @@ public class Player : MonoBehaviour, IDamagable
 
     public bool IsAlive { get; private set; } = true;
     public bool key = false;
-    private float Speed = 20;
+    public float Speed = 10;
     private float Sensevity = 9;
 
     private void Awake()
@@ -71,7 +71,8 @@ public class Player : MonoBehaviour, IDamagable
         _movement = new Movement(Controller, Speed, this, characterController, _lookAround);
         _gunsList = new GunsList(Controller, riffle, bazooka, grenade, mine);
         InterfaceManager = new InterfaceManager(Health, Armour, (GunsList)_gunsList);
-        ItemManager = new ItemManager(Health, Armour, (GunsList)_gunsList);
+        ItemManager = new ItemManager(Health, Armour, (GunsList)_gunsList,
+            new PropertyOfRampage(Health, Armour, (GunsList)_gunsList, (Movement)_movement));
         _managerWindow = new ManagerWindow(Controller);
         _managerWindow.SetWindow(Paused);
         _soldier = new Soldier(_damage, _movement, _gunsList, _managerWindow);

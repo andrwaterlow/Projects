@@ -3,12 +3,12 @@ using UnityEngine;
 
 namespace Assets.Scripts
 {
-    internal sealed class Movement : IMovement
+    public sealed class Movement : IMovement
     {
         private IController _controller;
         private ILookAround _lookAround;
 
-        private float _movingSpeed;
+        public float _movingSpeed { get; private set; }
         private float GRAVITY = -9.8f;
         private float _heightJump = 500f;
         private bool _jamping;
@@ -24,6 +24,11 @@ namespace Assets.Scripts
             _player = player;
             _characterController = characterController;
             _lookAround = lookAround;
+        }
+
+        public void SetNewSpeed(float speed)
+        {
+            _movingSpeed = speed;
         }
 
         public void Move()

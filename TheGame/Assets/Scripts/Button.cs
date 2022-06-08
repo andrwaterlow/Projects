@@ -9,7 +9,6 @@ public class Button : MonoBehaviour
         if(other.TryGetComponent<Player>(out var player))
         {
             _door.UnlockDoor();
-            Debug.Log("sew");
         }
     }
 }
